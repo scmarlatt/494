@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: bb83b5f89acb34c99a41053c102b07e1
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Gun: {instanceID: 0}
+  - floormaterial: {instanceID: 0}
+  - Bullet: {fileID: 100000, guid: 1363f776df5604bd7a42ef7be0459999, type: 2}
+  - currentBullet: {instanceID: 0}
+  - material: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: dbe6f010cc3d443f7a754cd1d0cfcc65
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Bullet: {fileID: 100000, guid: 1363f776df5604bd7a42ef7be0459999, type: 2}
+  - MegaMan: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
